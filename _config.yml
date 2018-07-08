@@ -12,6 +12,6 @@ email: domainlv@gmail.com
 
 # Google-analytics
 google-analytics:
-  id: "UA-111457908-2"
+  id: "UA-111457908-4"
 
 exclude: ['package.json', 'src' , 'node_modules']
